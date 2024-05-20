@@ -6,13 +6,13 @@
 }
 
 body {
-  background-color: rgb(205, 255, 243);
+  background-color: rgb(235, 222, 232);
 }
 .container {
   background: #f5f5dc;
   max-width: 800px;
   margin: 60px auto;
-  height: 1250px;
+  height: 1400px;
   padding: 20px;
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
 }
@@ -20,23 +20,24 @@ body {
   text-align: center;
 }
 .header h1 {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .header h3 {
   text-transform: uppercase;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 300;
+  font-style:inherit;
 }
 .img-are {
-  width: 200px;
-  height: 200px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   overflow: hidden;
   margin: 25px auto;
-  border: 15px groove deepskyblue;
+  border: 15px groove rgb(252, 221, 247);
 }
 .img-area img {
-  width: 100%;
+  width: 20%;
 }
 
 .main {
@@ -58,10 +59,10 @@ body {
 }
 
 h2 {
-  background: #00b6c4;
+  background: #1f5155;
   padding: 15px;
   color: #f5f5dc;
   margin: 30px 0;
   font-size: 20px;
-  border-radius: 0 50px 50px 0;
+  border-radius: 0 25px 25px 0;
 }
