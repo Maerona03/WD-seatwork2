@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/logo.png" alt="logo" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="logo" width="250" height="300">
   </a>
 
   <h3 align="center">MY SEATWORK</h3>
