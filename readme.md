@@ -5,15 +5,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="logo" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">SEATWORKS</h3>
+
+  <h3 align="center">MY SEATWORK</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  <p>Sharing my innovative seatwork project that helps to improves and develops programming skills.
+  This project combines integrates tutorials, coding exercises to make learning and apply different programming language.
 </div>
 
 <br />
@@ -76,11 +76,8 @@ Guiding Question:
 
 ### Technology
 
-<!-- TODO: List of Technology Used -->
-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 
@@ -89,17 +86,17 @@ Guiding Question:
 3. File Structure to follow
 
 ```
-WD-ProjectName
+WD-SEATWORK2
 └─ assets
 |   └─ css
 |   |   └─ style.css
+|   └─ doc
+|   |   └─ pdf
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|       └─fileWith.jpeg/.jpg/.webp/.png
+|   |
 |   └─ js
 |       └─ script.js
-|   |
-|   └─ doc
-|       └─ fileWidth.pdf
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -116,9 +113,8 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
-
-| Title       | Purpose                                  | Link                                             |
-| ----------- | ---------------------------------------- | ------------------------------------------------ |
-| YT TUTORIAL | How to create a Resume using HTML / CSS. | https://youtu.be/lTqw_op6anw?si=XlXGcSxFvDxgS9QD |
-| ICONS       | Use some icon for Contact Information    | https://fontawesome.com/icons                    |
+| Title    | Purpose                                  | Link                                             |
+| -------- | ---------------------------------------- | ------------------------------------------------ |
+| Youtube  | How to create a Resume using HTML / CSS. | https://youtu.be/lTqw_op6anw?si=XlXGcSxFvDxgS9QD |
+| ICONS    | Use some icon for Contact Information    | https://fontawesome.com/icons                    |
+| w3school | How to use or put some icons.            | https://www.w3schools.com/css/css_icons.asp      |

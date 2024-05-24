@@ -34,7 +34,7 @@ body {
 
 .img-area img {
   width: 20%;
-  border: 5px solid rgb(124, 55, 130);
+  border: 5px solid rgb(163, 115, 167);
 }
 
 .main {
@@ -50,7 +50,7 @@ body {
   background: #ad88c6;
   padding: 10px;
   color: #ffffff;
-  margin: 30px 0;
+  margin: 25px 0;
   font-size: 18px;
   font-family: sans-serif;
   border-radius: 0 25px 25px 0;
@@ -64,6 +64,10 @@ body {
 .main ul li {
   line-height: 2;
   margin-left: 15px;
+  font-family: "Cambria";
+}
+.educ p {
+  font-style: oblique;
 }
 
 .main div {
