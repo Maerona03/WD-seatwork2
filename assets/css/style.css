@@ -7,6 +7,19 @@
 body {
   background-color: rgb(255, 255, 255);
 }
+
+.back-button {
+  font-size: 15px;
+  font-family: "Poppins";
+  font-weight: 500;
+  padding: 12px 30px;
+  color: #ffffff;
+  display: inline-block;
+  white-space: nowrap;
+  border: none;
+  background: #ad88c6;
+  transition: all 0.3s ease;
+}
 .container {
   background: #ffffff;
   max-width: 800px;
@@ -37,7 +50,7 @@ body {
   border: 5px solid rgb(163, 115, 167);
 }
 
-.main {
+.main-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto 300px;
@@ -46,7 +59,7 @@ body {
   padding: 30px;
 }
 
-.main h2 {
+.main-content h2 {
   background: #ad88c6;
   padding: 10px;
   color: #ffffff;
@@ -56,12 +69,12 @@ body {
   border-radius: 0 25px 25px 0;
 }
 
-.main p {
+.main-content p {
   line-height: 2;
   font-family: "Cambria";
 }
 
-.main ul li {
+.main-content ul li {
   line-height: 2;
   margin-left: 15px;
   font-family: "Cambria";
@@ -70,7 +83,7 @@ body {
   font-style: oblique;
 }
 
-.main div {
+.main-content div {
   border-bottom: 3px solid #ad88c6;
   padding-bottom: 5px;
 }
