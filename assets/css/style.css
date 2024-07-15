@@ -12,12 +12,13 @@ body {
   font-size: 15px;
   font-family: "Poppins";
   font-weight: 500;
-  padding: 12px 30px;
-  color: #ffffff;
+  padding: 12px 20px;
+  color: #e8dfec;
+  border-radius: 40px;
   display: inline-block;
   white-space: nowrap;
   border: none;
-  background: #ad88c6;
+  background: #c31a6e;
   transition: all 0.3s ease;
 }
 .container {
@@ -50,7 +51,7 @@ body {
   border: 5px solid rgb(163, 115, 167);
 }
 
-.main-content {
+.main {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto 300px;
@@ -59,7 +60,7 @@ body {
   padding: 30px;
 }
 
-.main-content h2 {
+.main h2 {
   background: #ad88c6;
   padding: 10px;
   color: #ffffff;
@@ -69,12 +70,12 @@ body {
   border-radius: 0 25px 25px 0;
 }
 
-.main-content p {
+.main p {
   line-height: 2;
   font-family: "Cambria";
 }
 
-.main-content ul li {
+.main ul li {
   line-height: 2;
   margin-left: 15px;
   font-family: "Cambria";
@@ -83,7 +84,7 @@ body {
   font-style: oblique;
 }
 
-.main-content div {
+.main div {
   border-bottom: 3px solid #ad88c6;
   padding-bottom: 5px;
 }
